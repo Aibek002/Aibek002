@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me: 
-
+<hr>
   <img align = "left" alt =" Aibek002 | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>
 
   <img align = "left" alt =" Aibek002 | CodeForce" width ="30px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />
