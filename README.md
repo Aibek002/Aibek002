@@ -1,4 +1,4 @@
-#Hello! I'm Aibek Seitzhan
+# Hello! I'm Aibek Seitzhan
 
 ## 🤓 About Me :
 <br>
