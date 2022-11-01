@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Connect with me: 
 
 [<img align = "left" alt =" Aibek002 | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>][Linkedin]
-[<img align = "left" alt =" Aibek002 | LeetCode" width ="30px" src = "https://github.com/Aibek002/Aibek002/blob/main/img/Codeforces.png" />][CodeForces]<br>
+[<img align = "left" alt =" Aibek002 | LeetCode" width ="30px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />][CodeForces]<br>
 <br>
 ### Top Language card:<br>
 
