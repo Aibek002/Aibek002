@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning on Suleyman Demirel University
 - 📫 How to reach me: https://t.me/Aibekssss09 
 - 🔭 I’m currently working on Junior Front-end Developer
-
-
+<br>
 
 ## Connect with me: 
 
