@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning on Suleyman Demirel University
+- 🌱 I am a student of Suleyman Demirel University 
 - 📫 How to reach me: https://t.me/Aibekssss09 
 - 🔭 I’m currently working on Junior Front-end Developer
 
