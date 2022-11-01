@@ -1,6 +1,6 @@
-### Hello! I'm Aibek Seitzhan
+#Hello! I'm Aibek Seitzhan
 
-- 🤓 About Me :
+## 🤓 About Me :
 <br>
 <!--
 **Aibek002/Aibek002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- Connect with me: 
+## Connect with me: 
 
 <hr>
   <img align = "left" alt =" Aibek002 | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-- Top Language card:<br>
+## Top Language card:<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibek002&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
