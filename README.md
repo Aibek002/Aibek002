@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align = "left" alt =" Aibek002 | HeadHunter" width ="50px" src = "https://www.tadviser.ru/images/7/7e/HeadHunter.png"/>
 
 
-<br>
+<hr>
 ### Top Language card:<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibek002&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
