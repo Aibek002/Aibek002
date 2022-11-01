@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning on Suleyman Demirel University
 - 📫 How to reach me: https://t.me/Aibekssss09 
-🔭 I’m currently working on Junior Front-end Developer
+- 🔭 I’m currently working on Junior Front-end Developer
+- 
 
 
 ### Connect with me: 
 
-[<img align = "left" alt =" yrysNM | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>][Linkedin]
-[<img align = "left" alt =" yrysNM | LeetCode" width ="30px" src = "https://github.com/yrysNM/yrysNM/blob/main/img/LeetCode.png" />][LeetCode]<br>
+[<img align = "left" alt =" Aibek002 | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>][Linkedin]
+[<img align = "left" alt =" Aibek002 | LeetCode" width ="30px" src = "https://github.com/Aibek002/Aibek002/blob/main/img/Codeforces.png" />][CodeForces]<br>
 <br>
 ### Top Language card:<br>
 
