@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning on Suleyman Demirel University
 - 📫 How to reach me: https://t.me/Aibekssss09 
 - 🔭 I’m currently working on Junior Front-end Developer
-- 
+
 
 
 ### Connect with me: 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align = "left" alt =" Aibek002 | HeadHunter" width ="50px" src = "https://www.tadviser.ru/images/7/7e/HeadHunter.png"/>
 
 
--
+<br>
 ### Top Language card:<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibek002&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
