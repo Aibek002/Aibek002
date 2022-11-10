@@ -1,3 +1,9 @@
+<style> 
+body{
+  background:red;
+  }
+</style>
+
 # Hello! I'm Aibek Seitzhan
 
 ## 🤓 About Me :
