@@ -1,8 +1,4 @@
-<style> 
-body{
-  background:red;
-  }
-</style>
+
 
 # Hello! I'm Aibek Seitzhan
 
@@ -17,11 +13,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 
+- 🤔  I am looking for a job or internship
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 
 - 🌱 I am a student of Suleyman Demirel University 
 - 📫 How to reach me: https://t.me/Aibekssss09 
 - 🔭 I’m currently working on Junior Front-end Developer
