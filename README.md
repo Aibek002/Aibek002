@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I am looking for a job or internship
 - 🌱 I am a student of Suleyman Demirel University 
 - 📫 How to reach me: https://t.me/Aibekssss09 
-- 🔭 I’m currently working on Junior Front-end Developer
+- 🔭 I’m currently working on Junior Web Developer
 
 
 ## Connect with me: 
