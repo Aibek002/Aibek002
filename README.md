@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align = "left" alt =" Aibek002 | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>
 
   <img align = "left" alt =" Aibek002 | CodeForce" width ="30px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />
-  <img align = "left" alt =" Aibek002 | HeadHunter" width ="50px" src = "https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/><br><br><hr><br>
+  <img align = "left" alt =" Aibek002 | HeadHunter" width ="30px" src = "https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/><br><br><hr><br>
 
 
 
