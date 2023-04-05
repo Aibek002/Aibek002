@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align = "left" alt =" Aibek002 | CodeForce" width ="30px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />
   <img align = "left" alt =" Aibek002 | HeadHunter" width ="30px" src = "https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/><br><br><hr><br>
 <div align="center">
-  
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aibek002&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Aibek002&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
