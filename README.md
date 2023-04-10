@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 ## Connect with me: 
 <div align="center">
 <hr>
-  <img align = "left" alt =" Aibek002 | LinkedIn" width ="60px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>
- <img align = "left" alt =" Aibek002 | Instagram" width ="60px" src = "[https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png](https://static-00.iconduck.com/assets.00/instagram-icon-512x512-ggh8x3cn.png)"/>
-    <img align = "left" alt =" Aibek002 | Telegram" width ="60px" src = "[https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png)"/>
-    <img align = "left" alt =" Aibek002 | WhatsApp" width ="60px" src = "[https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png](https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5302_-_Whatsapp-512.png)"/>
-  <img align = "left" alt =" Aibek002 | CodeForce" width ="60px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />
-  <img align = "left" alt =" Aibek002 | HeadHunter" width ="60px" src = "https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/><br><br><hr><br>
+  <img align = "center" alt =" Aibek002 | LinkedIn" width ="60px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>
+
+  <img align = "center" alt =" Aibek002 | CodeForce" width ="60px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXeOgObyId3ZNxuoR0x-AYWOKqwEsPKg2mqMOidUQxA&s" />
+  <img align = "center" alt =" Aibek002 | HeadHunter" width ="60px" src = "https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/><br><br><hr><br>
 
   <div>
 
