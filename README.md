@@ -34,10 +34,11 @@ Here are some ideas to get you started:
   <div>
 
 <!--   <hr> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Aibek002&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> -->
+
 
 </div>
 <!--  -->
 
 ## GitHub Status
 
+    <img src="https://github-readme-stats.vercel.app/api?username=Aibek002&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
