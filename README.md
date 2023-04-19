@@ -41,4 +41,3 @@ Here are some ideas to get you started:
 
 ## GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aibek002&show_icons=true&theme=radical)
