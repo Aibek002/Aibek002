@@ -25,6 +25,6 @@
 
 ## 💬 Languages:
 
-- English (Fluent)
+- English (intermediate)
 - Russian (Native)
 - Kazakh (Native)
