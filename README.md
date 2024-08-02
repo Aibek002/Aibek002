@@ -4,7 +4,7 @@
 
 - 🌱 Junior Full-Stack Developer
 - 🎓 Graduated from Suleyman Demirel University
-- 📧 Contact: [Telegram](https://t.me/Aibekssss09)
+- 📧 Contact: [Telegram](https://t.me/ASTech_09)
 
 ## 💼 Experience:
 
