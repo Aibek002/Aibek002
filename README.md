@@ -8,9 +8,9 @@
 
 ## 💼 Experience:
 
-- Junior Web Developer at GaMa Group Company 
-- Intern at VashDomofon Company
-- Full-Stack Developer in BUKETOV UNIVERSITY (currently)
+- Junior Web Developer at GaMa Group Company
+- Intern at VashDomofon Company VashDomofon Company
+- Full-Stack Developer in  [BUKETOV UNIVERSITY](https://buketov.edu.kz/) (currently) 
 
 ## 👨‍💻 Skills:
 
