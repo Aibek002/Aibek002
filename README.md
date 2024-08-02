@@ -1,15 +1,16 @@
 # Aibek Seitzhan
 
-## 🤓 About Me:
+##  About Me:
 
-- 🌱 Junior Web Developer
-- 🎓 Studying at Suleyman Demirel University
+- 🌱 Junior Full-Stack Developer
+- 🎓 Graduated from Suleyman Demirel University
 - 📧 Contact: [Telegram](https://t.me/Aibekssss09)
 
 ## 💼 Experience:
 
 - Junior Web Developer at GaMa Group Company 
-- Intern at VashDomofon Company 
+- Intern at VashDomofon Company
+- Full-Stack Developer in BUKETOV UNIVERSITY (currently)
 
 ## 👨‍💻 Skills:
 
@@ -18,6 +19,10 @@
 - JavaScript
 - React
 - Git
+- PHP
+- YII2
+- DOCKER
+- AJAX
 
 ## 📚 Education:
 
